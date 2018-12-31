@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="11.323" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-12-28T00:09:48" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Check new option on Page" timestamp="2018-12-28T00:09:48" tests="3" failures="0" time="11.323">
+    <testcase name="Check new option on Page Check news" time="5.7" classname="Check news">
+    </testcase>
+    <testcase name="Check new option on Page Check Videos" time="2.87" classname="Check Videos">
+    </testcase>
+    <testcase name="Check new option on Page Check Galerries" time="2.753" classname="Check Galerries">
+    </testcase>
+  </testsuite>
+</testsuites>
